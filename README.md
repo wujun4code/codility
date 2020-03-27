@@ -1,1 +1,3 @@
 # codility
+
+Learn algorithm.
